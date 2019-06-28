@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="NetFw.Servico.ServicoWCF_REST" CodeBehind="ServicoWCF_REST.svc.cs" %>
